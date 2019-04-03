@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<ArrayOfShortcutData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ShortcutData>
+    <AppPath>C:\Program Files (x86)\Google\Chrome\Application</AppPath>
+    <AppName>chrome</AppName>
+    <AppKey>A</AppKey>
+    <AppKeyID>-16300</AppKeyID>
+  </ShortcutData>
+  <ShortcutData>
+    <AppPath>.\bat</AppPath>
+    <AppName>fw_start</AppName>
+    <AppKey>D2</AppKey>
+    <AppKeyID>-16301</AppKeyID>
+  </ShortcutData>
+  <ShortcutData>
+    <AppPath>.\bat</AppPath>
+    <AppName>cpl</AppName>
+    <AppKey>D3</AppKey>
+    <AppKeyID>-16302</AppKeyID>
+  </ShortcutData>
+  <ShortcutData>
+    <AppPath>.\bat</AppPath>
+    <AppName>pg</AppName>
+    <AppKey>D4</AppKey>
+    <AppKeyID>-16303</AppKeyID>
+  </ShortcutData>
+  <ShortcutData>
+    <AppPath>.\bat</AppPath>
+    <AppName>ncpa</AppName>
+    <AppKey>D5</AppKey>
+    <AppKeyID>-16299</AppKeyID>
+  </ShortcutData>
+  <ShortcutData>
+    <AppPath>.\bat</AppPath>
+    <AppName>kanri</AppName>
+    <AppKey>D6</AppKey>
+    <AppKeyID>-16298</AppKeyID>
+  </ShortcutData>
+  <ShortcutData>
+    <AppPath>F:\AXXXXXX_福岡市夫婦石浄水場室見取水場</AppPath>
+    <AppName />
+    <AppKey>E</AppKey>
+    <AppKeyID>-16297</AppKeyID>
+  </ShortcutData>
+  <ShortcutData>
+    <AppPath>F:\work\OST</AppPath>
+    <AppName />
+    <AppKey>M</AppKey>
+    <AppKeyID>-16296</AppKeyID>
+  </ShortcutData>
+  <ShortcutData>
+    <AppPath>%USERPROFILE%\Downloads</AppPath>
+    <AppName />
+    <AppKey>Q</AppKey>
+    <AppKeyID>-16294</AppKeyID>
+  </ShortcutData>
+  <ShortcutData>
+    <AppPath>C:\cmder\vendor\conemu-maximus5</AppPath>
+    <AppName>ConEmu64</AppName>
+    <AppKey>R</AppKey>
+    <AppKeyID>-16290</AppKeyID>
+  </ShortcutData>
+  <ShortcutData>
+    <AppPath>F:\IoTP</AppPath>
+    <AppName />
+    <AppKey>W</AppKey>
+    <AppKeyID>-16292</AppKeyID>
+  </ShortcutData>
+  <ShortcutData>
+    <AppPath>.\bat</AppPath>
+    <AppName>snipping</AppName>
+    <AppKey>X</AppKey>
+    <AppKeyID>-16291</AppKeyID>
+  </ShortcutData>
+</ArrayOfShortcutData>
